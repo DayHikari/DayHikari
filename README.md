@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DayHikari, real name David Mason.
-- 👀 I’m interested in developing my coding skill set and playing games XP
+- 👀 I’m interested in developing my coding skill set and playing games.
 - 🌱 I’m currently learning with School of Code!
 
 
