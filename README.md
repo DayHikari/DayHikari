@@ -7,8 +7,11 @@
     During the course, I learnt not only how to use HTML, CSS, JavaScript, TypeScript, PostgreSQl, React and more, but also how to work in a modern software development team.
     I learnt/developed a number of skills including how to pair/team programme, how to effectively communicate even when working remote, the development process of an app from ideation to documentation, as well as how to breakdown and solve coding problems using computational thinking. 
   </p>
+  
+  Feel free to visit my [Portfolio](https://david-masons-portfolio.vercel.app/) where you can see all of my deployed projects or you can contact me through LinkedIn below:
+  
   <a href="https://www.linkedin.com/in/davidianmason1702/" target="_blank">
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
+    <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
   </a>
   
 </div>
@@ -26,7 +29,7 @@
 <br/>
 <br/>
 <section align="center">
-  <h3>My Tech Stack and Stats</h3>
+  <h3>My Tech Stack:</h3>
   <div>  
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript"/>
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript"/>
@@ -47,14 +50,14 @@
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/npm/npm-original-wordmark.svg" alt="npm"/>
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="vscode"/>
   </div>
-  <br/>
+</section>
+<br/>
+  
   <div align="center">
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=dayhikari&theme=dark&background=000000" />
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayhikari&layout=compact&theme=vision-friendly-dark" />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=dayhikari&show_icons=true&theme=vision-friendly-dark" />
   </div>
-</section>
-  
   
 
 
